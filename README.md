@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 💻Core stack: JS/React, Go. Focused on Backend.
 - 🌱 I’m currently learning Web3.0, DeFi and blockchain
 - 📫 Contacts: <a href="https://t.me/movefast/" target="_blank">Telegram</a>, <a href="mailto:dagdog2506@gmail.com">Gmail</a>
+<br/><h4>Have a nice day!</h4>
+<img src="https://go.dev/blog/gopher/gopher.png" alt="Gopher" />
