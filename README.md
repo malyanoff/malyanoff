@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻Core stack: JS/React, Go. Currenly learning Backend.
+💻Core stack: JS/React, Go. Currently learning Backend.
 - 🌱 I’m currently learning Golang.
 - 📫 Contacts: <a href="https://t.me/movefast/" target="_blank">Telegram</a>, <a href="mailto:dagdog2506@gmail.com">Gmail</a>
 <br/><h4>Have a nice day!</h4>
