@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💻Core stack: JS/React, Go. Currently learning Backend.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Go.
 - 📫 Contacts: <a href="https://t.me/movefast/" target="_blank">Telegram</a>, <a href="mailto:dagdog2506@gmail.com">Gmail</a>
 <br/><h4>Have a nice day!</h4>
 <img src="https://go.dev/blog/gopher/gopher.png" alt="Gopher" />
