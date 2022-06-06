@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go.
 - 📫 Contacts: <a href="https://t.me/movefast/" target="_blank">Telegram</a>, <a href="mailto:dagdog2506@gmail.com">Gmail</a>
 <br/><h4>Have a nice day!</h4>
-<img src="https://go.dev/blog/gopher/gopher.png" alt="Gopher" />
