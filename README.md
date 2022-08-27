@@ -1,1 +1,1 @@
-![My project-1 (1)](https://user-images.githubusercontent.com/74417113/186698244-750be800-08db-47a3-a558-0a7b2376af1d.png)
+![My project-1](https://user-images.githubusercontent.com/74417113/187039799-6bdf3159-606e-4e06-9678-ee6753de1e9c.png)
